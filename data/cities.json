@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Nurnberg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-09-25T17:36:03.838Z",
+      "notes": "Hometown",
+      "position": {
+        "lat": "49.43241258024849",
+        "lng": "11.206054687500002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-09-25T17:39:10.540Z",
+      "notes": "Loaker ",
+      "position": {
+        "lat": "48.19538740833338",
+        "lng": "16.391601562500004"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-26T19:17:31.213Z",
+      "notes": "Best place ever",
+      "position": {
+        "lat": "38.71980474264239",
+        "lng": "-9.140625000000002"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Seyches",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-26T19:37:01.085Z",
+      "notes": "rest",
+      "position": {
+        "lat": "44.55916341529182",
+        "lng": "0.28564453125000006"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Champs-sur-Tarentaine-Marchal",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-26T19:39:15.211Z",
+      "notes": "rest",
+      "position": {
+        "lat": "45.39844997630411",
+        "lng": "2.5708007812500004"
+      },
+      "id": 98443207
+    }
+  ]
+}
